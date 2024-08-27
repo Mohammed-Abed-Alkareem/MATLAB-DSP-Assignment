@@ -14,7 +14,24 @@ This assignment, created for the ENCS4310 - Digital Signal Processing (DSP) cour
 - Detailed comments and explanations within the code for better understanding.
 - Plots and diagrams generated during the assignment.
 
-
 ### Contributors
-- Jihad Awad
-- Mohammed Abed Alkareem
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <a href="https://github.com/Mohammed-Abed-Alkareem">
+        <img src="https://github.com/Mohammed-Abed-Alkareem.png" width="50px" style="border-radius: 50%;" alt="Mohammed-Abed-Alkareem" />
+      </a>
+      <br>
+      <a href="https://github.com/Mohammed-Abed-Alkareem">Mohammed-Abed-Alkareem</a>
+    </td>
+    <td>
+      <a href="https://github.com/JihadNihadAwad">
+        <img src="https://github.com/JihadNihadAwad.png" width="50px" style="border-radius: 50%;" alt="JihadNihadAwad" />
+      </a>
+      <br>
+      <a href="https://github.com/JihadNihadAwad">JihadNihadAwad</a>
+    </td>
+  </tr>
+</table>
+
